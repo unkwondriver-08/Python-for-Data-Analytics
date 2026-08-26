@@ -2,33 +2,58 @@
 
 ## Overview
 
-This repository contains my Python learning journey for Data Analytics.
+This repository documents my journey of learning and applying Python for Data Analytics.
 
-It includes notes, practice programs, problem-solving exercises, and mini-projects covering Python fundamentals and data analysis libraries.
+It contains structured notes, coding exercises, practice problems, and implementations covering Python fundamentals and data analysis libraries.
 
-## Topics Covered
+## Repository Structure
 
-- Python Basics
+### 🐍 Python
+
+Python fundamentals and core programming concepts:
+
 - Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
 - Strings
 - Lists
 - Tuples
-- Dictionaries
 - Sets
+- Dictionaries
+- Conditionals
+- Loops
 - Functions
-- File Handling
-- Object-Oriented Programming
-- NumPy
+- Modules & Imports
+- Practice Problems
+
+### 🔢 NumPy
+
+Learning NumPy for numerical computing and data manipulation:
+
+- NumPy Arrays
+- Array Indexing & Slicing
+- Array Dimensions
+- Row & Column Operations
+- Array Operations
+- Broadcasting
+- Statistical Operations
+
+### 📊 Data Analysis
+
+Upcoming topics and projects:
+
 - Pandas
+- Data Cleaning
+- Exploratory Data Analysis
 - Matplotlib
+- Data Visualization
 - Data Analysis Projects
 
 ## Goal
 
-This repository is part of my preparation for Data Analyst and Business Analyst roles.
+The goal of this repository is to build a strong foundation in Python and its data analysis ecosystem while developing the programming and analytical skills required for Data Analyst and Business Analyst roles.
+
+## Progress
+
+This repository is continuously updated as I learn new concepts, solve problems, and build data analysis projects.
 
 ## Author
 
