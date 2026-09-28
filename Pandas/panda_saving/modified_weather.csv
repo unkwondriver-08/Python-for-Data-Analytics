@@ -1,0 +1,6 @@
+MinTemp,MaxTemp,Rainfall
+1,2,30
+4,5,60
+8,90,7
+n.a,Not available,-1
+-8,-9,0
